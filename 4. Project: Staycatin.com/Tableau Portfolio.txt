@@ -1,0 +1,5 @@
+Project Staycatin.com using Tableau.
+Author: Pratik Hingnekar
+Link to Dashboard: https://public.tableau.com/views/DashboardProjectStaycatlin/Dashboard?:language=en-GB&:display_count=n&:origin=viz_share_link.
+Link to Story:
+https://public.tableau.com/views/StoryProjectStaycatlin/Story?:language=en-GB&:display_count=n&:origin=viz_share_link
