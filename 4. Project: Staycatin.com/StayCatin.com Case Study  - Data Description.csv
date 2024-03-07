@@ -1,0 +1,45 @@
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,S.No,DATA NAME,SHEET NAME,COLUMN NAME,DESCRIPTION
+,1,LISTING_AND_REVIEWS,LISTING,LISTING_ID,Unique listing ID of the property
+,2,LISTING_AND_REVIEWS,LISTING,PROPERTY_NAME,Name of the property
+,3,LISTING_AND_REVIEWS,LISTING,HOST_ID,ID of the host under whom the property is listed
+,4,LISTING_AND_REVIEWS,LISTING,HOST_NAME,Name of the Host
+,5,LISTING_AND_REVIEWS,LISTING,NEIGHBOURHOOD,Neighbourhood in which the property is listed
+,6,LISTING_AND_REVIEWS,LISTING,LATITUDE,Latitude of the property
+,7,LISTING_AND_REVIEWS,LISTING,LONGITUDE,Longitude of the property
+,8,LISTING_AND_REVIEWS,LISTING,ROOM_TYPE,Type of room
+,9,LISTING_AND_REVIEWS,LISTING,PRICE,Price per booking
+,10,LISTING_AND_REVIEWS,LISTING,MINIMUM_NIGHTS,Minimum number of nights required to book the property
+,11,LISTING_AND_REVIEWS,LISTING,NUMBER_OF_REVIEWS,"Total number of reviews posted. It is mandatory to put a review if the property was booked, so we can take it as Total Number of Bookings also."
+,12,LISTING_AND_REVIEWS,LISTING,HOST_TOTAL_LISTING_COUNT,Total number of property listed by the host
+,13,LISTING_AND_REVIEWS,LISTING,HOST_SINCE,Host joining date
+,14,LISTING_AND_REVIEWS,LISTING,CITY,City in which property is listed
+,15,LISTING_AND_REVIEWS,LISTING,STATE,State in which property is listed
+,16,LISTING_AND_REVIEWS,LISTING,ZIPCODE,Zipcode in which property is listed
+,17,LISTING_AND_REVIEWS,LISTING,COUNTRY,Country in which property is listed
+,18,LISTING_AND_REVIEWS,LISTING,PROPERTY_TYPE,Type of property
+,19,LISTING_AND_REVIEWS,LISTING,ACCOMMODATES,Accomates the property can hold
+,20,LISTING_AND_REVIEWS,LISTING,BATHROOMS,Number of Bathrooms in the property
+,21,LISTING_AND_REVIEWS,LISTING,BEDROOMS,Number of Bedrooms in the property
+,22,LISTING_AND_REVIEWS,LISTING,BEDS,Number of Beds in the property
+,23,LISTING_AND_REVIEWS,LISTING,BED_TYPE,Type of Beds in the property
+,24,LISTING_AND_REVIEWS,LISTING,REVIEW_SCORES_ACCURACY,Review score on of how accurate the description is on the website
+,25,LISTING_AND_REVIEWS,LISTING,REVIEW_SCORES_CHECKIN,Review score on checkin experience
+,26,LISTING_AND_REVIEWS,LISTING,REVIEW_SCORES_CLEANLINESS,Review score on cleanliness
+,27,LISTING_AND_REVIEWS,LISTING,REVIEW_SCORES_COMMUNICATION,Review score on communicatipon
+,28,LISTING_AND_REVIEWS,LISTING,REVIEW_SCORES_LOCATION,Review score on location
+,29,LISTING_AND_REVIEWS,LISTING,REVIEW_SCORES_RATING,Rating of the property
+,30,LISTING_AND_REVIEWS,LISTING,REVIEW_SCORES_VALUE,Review score on value for money
+,31,LISTING_AND_REVIEWS,REVIEWS,ID,Unique ID of the review data
+,32,LISTING_AND_REVIEWS,REVIEWS,LISTING_ID,Listing ID against which the review has been drafted
+,33,LISTING_AND_REVIEWS,REVIEWS,REVIEW_DATE,Date on which review was made
+,34,LISTING_AND_REVIEWS,REVIEWS,REVIEWER_ID,ID of the reviewer
+,35,LISTING_AND_REVIEWS,REVIEWS,REVIEWER_NAME,Name of the reviewer
+,36,LISTING_AND_REVIEWS,REVIEWS,COMMENTS,Review comments
+,37,PRICE_AVAILABILITY,PRICE_AVAILABILITY,LISTING_ID,Listing ID
+,38,PRICE_AVAILABILITY,PRICE_AVAILABILITY,DATE,Calander Date
+,39,PRICE_AVAILABILITY,PRICE_AVAILABILITY,AVAILABLE,Whether the property was available for booking or not against that calander date
+,40,PRICE_AVAILABILITY,PRICE_AVAILABILITY,DAILY_PRICE,What was the price in USD for that calander date
